@@ -14,7 +14,7 @@ my goal was be to create a visualization and prepare a write up describing the s
 - Create a line chart that compares my city’s temperatures with the global temperatures and plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable .
 - Make observations about the similarities and differences between the world averages and your city’s averages, as well as overall trends.
 
-“How do the changes in your city’s temperatures over time compare to the changes in the global average?”
+“How do the changes in my city’s temperatures over time compare to the changes in the global average?”
 What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
 
 my project is a PDF that includes:
