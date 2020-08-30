@@ -1,6 +1,7 @@
 # Udacity-DAND-explore-weather-trends
 
-Exploring Weather Trends - Project details
+Exploring Weather Trends :  Project details
+this project is the first project in the Udacity data analyst nanodegree .
 
 Summary :
 In this project, I analyzed local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
